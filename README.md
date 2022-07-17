@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BubbleManster
 - 👀 I’m interested in coding, kickboxing
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on CS50
+- 📤 I'd appreciate any help on stuff I'm working on.
 - 📫 How to reach me: Neveeeerrrrrrrrr
 
 <!---
