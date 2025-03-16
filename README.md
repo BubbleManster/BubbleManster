@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BubbleManster
-- 👀 I’m interested in coding, kickboxing
+- 👀 I’m interested in coding in Python and Data Science
 - 🌱 I’m currently learning JavaScript
 - 📤 I'd appreciate any help on stuff I'm working on.
 - 📫 How to reach me: Neveeeerrrrrrrrr
